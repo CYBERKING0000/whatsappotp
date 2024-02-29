@@ -17,6 +17,8 @@ $ git clone https://github.com/CYBERKING0000/whatsappotp.git
 
 $ cd whatsappotp
 
+$ python cyberwhatsapp.py
+
 ## kali linux command💗🥲
 $ sudo apt update
 
